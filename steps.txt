@@ -1,0 +1,6 @@
+1 create a new folder (server)
+2  npm i express body-parser cors dotenv helmet morgan mongoose nodemon
+3 Start the frontend. Create new terminal. Do this by creating a react app and name it "client". 
+4 install ES7+, tailwind, prettier, turbo console log. 
+5. Always use toolkit with redux: npm i react-redux @reduxjs/toolkit npm i react-datepicker react-router-dom@6 @mui/material @emotion/react @emotion/tyled @mui/icons-mat
+erial @mui/x-data-grid
